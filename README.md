@@ -3,7 +3,6 @@
 ![Design and Development](https://github.com/NasimAnwary/NasimAnwary/blob/main/N%20(1)%20copy%202.png)
 
 
-
 - 🌱 I’m currently learning **React, C#**
 
 - 💬 Ask me about **Solidity**
