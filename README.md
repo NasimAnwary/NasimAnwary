@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/nasim-anwary](www.linkedin.com/in/nasim-anwary)
 
-- ⚡ Fun fact **I started a YouTube channel of DeFi**
+- ⚡ Fun fact **I co-founded a YouTube channel on DeFi** [NextGen Vision](https://www.youtube.com/@NextGen_V)
 
 - 🌱 I’m currently learning **React, C#**
 
