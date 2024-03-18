@@ -4,7 +4,7 @@
 ![MasterHead](https://github.com/NasimAnwary/NasimAnwary/blob/main/Black%20Gradient%20Technology%20LinkedIn%20%20Background%20Photo.png)
 
 
-- 🌱 I’m currently learning **React, C#**
+- 🤓 Former Chemical Engineer turned Developer
 
 - 💬 Ask me about **Solidity**
 
@@ -13,6 +13,9 @@
 - 📄 Know about my experiences [www.linkedin.com/in/nasim-anwary](www.linkedin.com/in/nasim-anwary)
 
 - ⚡ Fun fact **I started a YouTube channel of DeFi**
+
+- 🌱 I’m currently learning **React, C#**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
