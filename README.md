@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nasim Anwary</h1>
 <h3 align="center">A enthusiastic Web3/Web2 Developer from South Africa</h3>
-
-![Design and Development](https://github.com/NasimAnwary/NasimAnwary/blob/main/N%20(1)%20copy%202.png)
 (img align="right" alt="Coding" width="400" src="https://github.com/NasimAnwary/NasimAnwary/blob/main/Subject%20copy.png")
+![Design and Development](https://github.com/NasimAnwary/NasimAnwary/blob/main/N%20(1)%20copy%202.png)
+
 
 - 🌱 I’m currently learning **React, C#**
 
