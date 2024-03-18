@@ -3,6 +3,7 @@
 
 ![MasterHead](https://github.com/NasimAnwary/NasimAnwary/blob/main/N%20(1)%20copy%202.png)
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://github.com/NasimAnwary/NasimAnwary/blob/main/Subject%20copy.png">
 
 - 🌱 I’m currently learning **React, C#**
 
